@@ -1,10 +1,10 @@
-package com.charan.jobListing;
+package com.Charan.movies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JobListingApplicationTests {
+class MoviesApplicationTests {
 
 	@Test
 	void contextLoads() {
